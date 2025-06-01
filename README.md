@@ -22,7 +22,7 @@ Additional results including multi-image stitching can be found in the notebook.
 ## Files
 
 - `HW3_stitching.ipynb`: Main Jupyter notebook with the stitching pipeline implementation.
-- `sample_output/`: Contains example input and output images used for testing and demonstration.
+- `data/`: Contains example input and output images used for testing and demonstration.
 
 ## Installation
 
